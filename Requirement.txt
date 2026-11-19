@@ -1,0 +1,9 @@
+Automated File Organizer
+
+No external libraries required.
+
+Uses Python built-in modules:
+
+os
+
+shutil
